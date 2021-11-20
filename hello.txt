@@ -1,8 +1,5 @@
-111111111111111111111111
-我不好呀master_second
-111111111111111111111111
-111111111111111111111111
-111111111111111111111111
-来了hot-fix版本22222222
-222222222222222222222222
-3333333333333333333333
+public class ProviderApp {
+    public static void main(String[] args) {
+        SpringApplication.run(ProviderApp.class,args);
+    }
+}
